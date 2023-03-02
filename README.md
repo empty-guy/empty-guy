@@ -13,6 +13,8 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
-  <h1 align="center">Contact-me</h1>
-  <a href = "mailto: matheuskretzkei@gmail.com">
-      <img width="30" src="https://user-images.githubusercontent.com/102408995/222483059-4158fa79-b180-4084-9f24-446878fb6373.svg">
+    <h1 align="center">Contact-me</h1>
+    <a href = "mailto: matheuskretzkei@gmail.com">
+    <img width="30" src="https://user-images.githubusercontent.com/102408995/222483059-4158fa79-b180-4084-9f24-446878fb6373.svg">
+      
+    ![Snake animation](https://github.com/empty-guy/empty-guy/blob/output/github-contribution-grid-snake.svg)
