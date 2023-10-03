@@ -7,7 +7,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9997dda-d8a7-4ce8-ba38-6d8630f01bc8/dft5w6t-abfae3cb-6a04-4a8f-b13f-6971e8e706dd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5OTk3ZGRhLWQ4YTctNGNlOC1iYTM4LTZkODYzMGYwMWJjOFwvZGZ0NXc2dC1hYmZhZTNjYi02YTA0LTRhOGYtYjEzZi02OTcxZThlNzA2ZGQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WsLOhlqYuNVY1hecvdkLrrVaUr8tXXONqZBEV5Ur4Gc">
+    <img align="left" height="250" alt="coding-time" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA2MWRrMm5maGoydWk5aWZ4bHlreGVzdzBjNHU0c3NzdGF6cHkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2HuVpmuQhK3nu2vfz/giphy.gif">
     <h1 align="center">Practicing </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
