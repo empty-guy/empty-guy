@@ -7,7 +7,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA2MWRrMm5maGoydWk5aWZ4bHlreGVzdzBjNHU0c3NzdGF6cHkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2HuVpmuQhK3nu2vfz/giphy.gif">
+    <img align="left" height="250" alt="img" src="https://media4.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=ecf05e47b6ifjxmith4j2eovzhhd48trnenkbirn8qr9i3lw&ep=v1_gifs_related&rid=giphy.gif&ct=g">
     <h1 align="center">Practicing </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
